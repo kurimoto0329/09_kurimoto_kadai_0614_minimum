@@ -7,7 +7,7 @@
 <body>
 
 <table border='1'>
-<tr><th>時間</th><th>名前</th><th>メアド</th><th>回答1</th><th>回答2</th><th>回答3</th></tr>
+<tr><th>時間</th><th>名前</th><th>メアド</th><th>歌手</th><th>曲名</th><th>点数</th></tr>
 
 <?php
 
