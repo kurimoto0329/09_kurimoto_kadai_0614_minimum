@@ -33,9 +33,10 @@ fclose($file);
 </head>
 <body>
 
-<h1>回答ありがとうございました。</h1>
-<h2>アンケートを確認しましょう！</h2>
+<h1>記録ありがとうございました。</h1>
+<h2>採点一覧を確認しよう！</h2>
 
 <ul>
-    <li><a href="index.php">戻る</a></li>
+    <li><a href="answer.php">戻る</a></li>
+    <li><a href="result.php">採点一覧を見る</a></li>
 </ul>
